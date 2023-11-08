@@ -1,0 +1,13 @@
+[{
+        "id": 1,
+        "nom": "Lait",
+        "categorie": "Frais",
+        "prix": 1.50
+    },
+    {
+        "id": 2,
+        "nom": "Pomme",
+        "categorie": "Fruit",
+        "prix": 0.50
+    }
+]
