@@ -9,5 +9,29 @@
         "nom": "Pomme",
         "categorie": "Fruit",
         "prix": 0.50
+    },
+    {
+        "id": 3,
+        "nom": "Chocolat",
+        "categorie": "Gateau",
+        "prix": 1.50
+    },
+    {
+        "id": 4,
+        "nom": "Tomate",
+        "categorie": "Legume",
+        "prix": 0.50
+    },
+    {
+        "id": 5,
+        "nom": "PS5",
+        "categorie": "Multimedia",
+        "prix": 500
+    },
+    {
+        "id": 6,
+        "nom": "Baguette",
+        "categorie": "Boulangerie",
+        "prix": 1
     }
 ]

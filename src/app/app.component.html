@@ -1,7 +1,15 @@
-<div>
-    <h1>Mon Catalogue de Produits</h1>
+<div class="container">
+    <div class="element">
+        <h1>Mon Catalogue de Produits</h1>
 
-    <app-product-search [products]="productsList"></app-product-search>
 
-    <app-product-list [products]="productsList"></app-product-list>
+        <h2>Liste de Produits</h2>
+        <app-product-list [products]="productsList">
+        </app-product-list>
+        <hr>
+        <h2>Recherche de Produits</h2>
+        <app-product-search [products]="productsList"></app-product-search>
+
+
+    </div>
 </div>

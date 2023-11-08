@@ -1,0 +1,11 @@
+.element {
+    margin: 0 auto;
+    width: 500;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
